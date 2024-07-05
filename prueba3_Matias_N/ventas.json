@@ -1,0 +1,457 @@
+[
+    {
+        "nombre": "Sandwich Huevo",
+        "venta": 2000,
+        "iva": 19
+    },
+    {
+        "nombre": "Essreso Doble",
+        "venta": 8427,
+        "iva": 1601
+    },
+    {
+        "nombre": "Frappe Caramelo",
+        "venta": 2823,
+        "iva": 536
+    },
+    {
+        "nombre": "Panini de Pavo y Queso",
+        "venta": 8300,
+        "iva": 1577
+    },
+    {
+        "nombre": "Tarta de Frambuesa",
+        "venta": 9636,
+        "iva": 1830
+    },
+    {
+        "nombre": "Muffin",
+        "venta": 9575,
+        "iva": 1819
+    },
+    {
+        "nombre": "Tarta de Frambuesa",
+        "venta": 3856,
+        "iva": 732
+    },
+    {
+        "nombre": "Pastel Zanahoria",
+        "venta": 8203,
+        "iva": 1558
+    },
+    {
+        "nombre": "Frappe Caramelo",
+        "venta": 9161,
+        "iva": 1740
+    },
+    {
+        "nombre": "Croissant",
+        "venta": 5373,
+        "iva": 1020
+    },
+    {
+        "nombre": "Sandwich Huevo",
+        "venta": 9328,
+        "iva": 1772
+    },
+    {
+        "nombre": "Muffin",
+        "venta": 7883,
+        "iva": 1497
+    },
+    {
+        "nombre": "Ensalada",
+        "venta": 2583,
+        "iva": 490
+    },
+    {
+        "nombre": "Muffin",
+        "venta": 8460,
+        "iva": 1607
+    },
+    {
+        "nombre": "Galletas Avena",
+        "venta": 8297,
+        "iva": 1576
+    },
+    {
+        "nombre": "Muffin",
+        "venta": 5646,
+        "iva": 1072
+    },
+    {
+        "nombre": "Sandwich Huevo",
+        "venta": 5447,
+        "iva": 1034
+    },
+    {
+        "nombre": "Sandwich Huevo",
+        "venta": 8066,
+        "iva": 1532
+    },
+    {
+        "nombre": "Essreso Doble",
+        "venta": 6376,
+        "iva": 1211
+    },
+    {
+        "nombre": "Jugo Naranja",
+        "venta": 4293,
+        "iva": 815
+    },
+    {
+        "nombre": "Ensalada",
+        "venta": 2901,
+        "iva": 551
+    },
+    {
+        "nombre": "Galletas Avena",
+        "venta": 3587,
+        "iva": 681
+    },
+    {
+        "nombre": "Sandwich Huevo",
+        "venta": 3866,
+        "iva": 734
+    },
+    {
+        "nombre": "Croissant",
+        "venta": 9616,
+        "iva": 1827
+    },
+    {
+        "nombre": "Tarta de Frambuesa",
+        "venta": 9148,
+        "iva": 1738
+    },
+    {
+        "nombre": "Muffin",
+        "venta": 7199,
+        "iva": 1367
+    },
+    {
+        "nombre": "Sandwich Huevo",
+        "venta": 7035,
+        "iva": 1336
+    },
+    {
+        "nombre": "Panini de Pavo y Queso",
+        "venta": 3058,
+        "iva": 581
+    },
+    {
+        "nombre": "Essreso Doble",
+        "venta": 9148,
+        "iva": 1738
+    },
+    {
+        "nombre": "Ensalada",
+        "venta": 2323,
+        "iva": 441
+    },
+    {
+        "nombre": "Galletas Avena",
+        "venta": 4671,
+        "iva": 887
+    },
+    {
+        "nombre": "Ensalada",
+        "venta": 3072,
+        "iva": 583
+    },
+    {
+        "nombre": "Sandwich Huevo",
+        "venta": 4065,
+        "iva": 772
+    },
+    {
+        "nombre": "Croissant",
+        "venta": 6987,
+        "iva": 1327
+    },
+    {
+        "nombre": "Tarta de Frambuesa",
+        "venta": 7078,
+        "iva": 1344
+    },
+    {
+        "nombre": "Frappe Caramelo",
+        "venta": 4185,
+        "iva": 795
+    },
+    {
+        "nombre": "Pastel Zanahoria",
+        "venta": 6555,
+        "iva": 1245
+    },
+    {
+        "nombre": "Batido Frutaas",
+        "venta": 3066,
+        "iva": 582
+    },
+    {
+        "nombre": "Galletas Avena",
+        "venta": 9122,
+        "iva": 1733
+    },
+    {
+        "nombre": "Jugo Naranja",
+        "venta": 3894,
+        "iva": 739
+    },
+    {
+        "nombre": "Panini de Pavo y Queso",
+        "venta": 8136,
+        "iva": 1545
+    },
+    {
+        "nombre": "Essreso Doble",
+        "venta": 4014,
+        "iva": 762
+    },
+    {
+        "nombre": "Essreso Doble",
+        "venta": 8631,
+        "iva": 1639
+    },
+    {
+        "nombre": "Batido Frutaas",
+        "venta": 5131,
+        "iva": 974
+    },
+    {
+        "nombre": "Frappe Caramelo",
+        "venta": 7498,
+        "iva": 1424
+    },
+    {
+        "nombre": "Croissant",
+        "venta": 6702,
+        "iva": 1273
+    },
+    {
+        "nombre": "Pastel Zanahoria",
+        "venta": 2694,
+        "iva": 511
+    },
+    {
+        "nombre": "Essreso Doble",
+        "venta": 3621,
+        "iva": 687
+    },
+    {
+        "nombre": "Muffin",
+        "venta": 7277,
+        "iva": 1382
+    },
+    {
+        "nombre": "Panini de Pavo y Queso",
+        "venta": 2286,
+        "iva": 434
+    },
+    {
+        "nombre": "Galletas Avena",
+        "venta": 9596,
+        "iva": 1823
+    },
+    {
+        "nombre": "Essreso Doble",
+        "venta": 6602,
+        "iva": 1254
+    },
+    {
+        "nombre": "Tarta de Frambuesa",
+        "venta": 3789,
+        "iva": 719
+    },
+    {
+        "nombre": "Jugo Naranja",
+        "venta": 6540,
+        "iva": 1242
+    },
+    {
+        "nombre": "Essreso Doble",
+        "venta": 6019,
+        "iva": 1143
+    },
+    {
+        "nombre": "Frappe Caramelo",
+        "venta": 2160,
+        "iva": 410
+    },
+    {
+        "nombre": "Batido Frutaas",
+        "venta": 2162,
+        "iva": 410
+    },
+    {
+        "nombre": "Frappe Caramelo",
+        "venta": 5442,
+        "iva": 1033
+    },
+    {
+        "nombre": "Batido Frutaas",
+        "venta": 6544,
+        "iva": 1243
+    },
+    {
+        "nombre": "Pastel Zanahoria",
+        "venta": 4074,
+        "iva": 774
+    },
+    {
+        "nombre": "Frappe Caramelo",
+        "venta": 6098,
+        "iva": 1158
+    },
+    {
+        "nombre": "Croissant",
+        "venta": 2189,
+        "iva": 415
+    },
+    {
+        "nombre": "Croissant",
+        "venta": 8957,
+        "iva": 1701
+    },
+    {
+        "nombre": "Pastel Zanahoria",
+        "venta": 7015,
+        "iva": 1332
+    },
+    {
+        "nombre": "Essreso Doble",
+        "venta": 4599,
+        "iva": 873
+    },
+    {
+        "nombre": "Panini de Pavo y Queso",
+        "venta": 3735,
+        "iva": 709
+    },
+    {
+        "nombre": "Galletas Avena",
+        "venta": 2422,
+        "iva": 460
+    },
+    {
+        "nombre": "Tarta de Frambuesa",
+        "venta": 5511,
+        "iva": 1047
+    },
+    {
+        "nombre": "Batido Frutaas",
+        "venta": 9460,
+        "iva": 1797
+    },
+    {
+        "nombre": "Essreso Doble",
+        "venta": 9277,
+        "iva": 1762
+    },
+    {
+        "nombre": "Essreso Doble",
+        "venta": 2024,
+        "iva": 384
+    },
+    {
+        "nombre": "Muffin",
+        "venta": 2473,
+        "iva": 469
+    },
+    {
+        "nombre": "Sandwich Huevo",
+        "venta": 8892,
+        "iva": 1689
+    },
+    {
+        "nombre": "Pastel Zanahoria",
+        "venta": 2366,
+        "iva": 449
+    },
+    {
+        "nombre": "Frappe Caramelo",
+        "venta": 7259,
+        "iva": 1379
+    },
+    {
+        "nombre": "Batido Frutaas",
+        "venta": 6306,
+        "iva": 1198
+    },
+    {
+        "nombre": "Batido Frutaas",
+        "venta": 3325,
+        "iva": 631
+    },
+    {
+        "nombre": "Jugo Naranja",
+        "venta": 2400,
+        "iva": 456
+    },
+    {
+        "nombre": "Panini de Pavo y Queso",
+        "venta": 3102,
+        "iva": 589
+    },
+    {
+        "nombre": "Batido Frutaas",
+        "venta": 3349,
+        "iva": 636
+    },
+    {
+        "nombre": "Essreso Doble",
+        "venta": 6445,
+        "iva": 1224
+    },
+    {
+        "nombre": "Sandwich Huevo",
+        "venta": 7970,
+        "iva": 1514
+    },
+    {
+        "nombre": "Jugo Naranja",
+        "venta": 9203,
+        "iva": 1748
+    },
+    {
+        "nombre": "Cafe Americano",
+        "venta": 3661,
+        "iva": 695
+    },
+    {
+        "nombre": "Ensalada",
+        "venta": 7011,
+        "iva": 1332
+    },
+    {
+        "nombre": "Panini de Pavo y Queso",
+        "venta": 6491,
+        "iva": 1233
+    },
+    {
+        "nombre": "Cafe Americano",
+        "venta": 9272,
+        "iva": 1761
+    },
+    {
+        "nombre": "Pastel Zanahoria",
+        "venta": 8096,
+        "iva": 1538
+    },
+    {
+        "nombre": "Pastel Zanahoria",
+        "venta": 2241,
+        "iva": 425
+    },
+    {
+        "nombre": "Jugo Naranja",
+        "venta": 3943,
+        "iva": 749
+    },
+    {
+        "nombre": "Pastel Zanahoria",
+        "venta": 8796,
+        "iva": 1671
+    }
+]
